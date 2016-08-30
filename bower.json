@@ -1,0 +1,27 @@
+{
+  "name": "countdown_landing",
+  "authors": [
+    "Dmitry Scherenkov <soulance@yandex.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-css": "~3.0.3",
+    "bootstrap": "3.3.4",
+    "magnific-popup": "~1.0.0",
+    "angular": "~1.5.6"
+  },
+  "devDependencies": {}
+}
